@@ -28,4 +28,4 @@ This project explores how employee lifestyle choices—such as healthy eating an
 The full analysis is available in the PowerPoint file: `Employee_Lifestyle_Salary_Analysis.pptx`
 
 ## 🤝 Connect
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile/) for feedback or collaboration.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aman-khan-353723229/) for feedback or collaboration.
